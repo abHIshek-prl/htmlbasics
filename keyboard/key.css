@@ -1,0 +1,63 @@
+body{
+
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    
+
+}
+.main{
+    width: 755px;
+    height: 250px;
+    background: linear-gradient(to bottom left,red,red,rgb(0, 0, 0),blue,blue);
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 8px;
+    border-radius: 10px;
+    border: 4px solid black;
+    box-shadow: 8px 8px 15px;
+    
+}
+
+
+button{
+    width: 46px;
+    height: 40px;
+    color: #888888;
+    background-color: black;
+    border-radius: 8px;
+    border: 3px solid rgb(66, 65, 65);
+    
+    
+    
+}
+.BS{
+    width: 95px;
+}
+.tab{
+    width: 85px;
+}
+.CL{
+    width: 98PX;
+}
+.EN{
+    width: 96PX;
+}
+.SF{
+    width:90px ;
+}
+.SF2{
+    width:135PX ;
+}
+.SP{
+    width:246px ;
+}
+button:hover{
+    background-color:rgb(52, 50, 50);
+    color: rgb(221, 9, 9);
+    border: rgb(255, 255, 255);
+
+}
